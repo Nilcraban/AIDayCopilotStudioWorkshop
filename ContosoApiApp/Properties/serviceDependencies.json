@@ -1,7 +1,3 @@
 {
-  "dependencies": {
-    "CustomConnector": {
-      "type": "powerplatform"
-    }
-  }
+  "dependencies": {}
 }

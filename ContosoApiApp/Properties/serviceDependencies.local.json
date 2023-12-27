@@ -1,11 +1,3 @@
 {
-  "dependencies": {
-    "CustomConnector": {
-      "connectionInfo": "Custom Connector: ContosoApiApp_Connector (Environment: Contoso (default))",
-      "connectorName": "ContosoApiApp_Connector",
-      "environmentUrl": "https://org8b4a2819.crm.dynamics.com/",
-      "environmentId": "1116e9f4-a7fa-4832-8804-a2418d32a678",
-      "type": "powerplatform.local"
-    }
-  }
+  "dependencies": {}
 }
